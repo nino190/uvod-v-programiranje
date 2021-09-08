@@ -1,0 +1,37 @@
+{
+    "uporabnisko_ime": "nino",
+    "zasifrirano_geslo": "2246134559$ac733d061a97f7323be71a17c44929f97a25eeac56747b0eafbff2003ac431a17e020b0e0fe34b406b2d570c30259e4ded96dfa0f883afce9cf72e3e08d93c8c",
+    "proracun": {
+        "racuni": [
+            {
+                "ime": "popo"
+            }
+        ],
+        "kuverte": [
+            {
+                "ime": "nino",
+                "razporeditev": 0
+            },
+            {
+                "ime": "halo",
+                "razporeditev": 0
+            }
+        ],
+        "prelivi": [
+            {
+                "znesek": 500,
+                "datum": "2021-09-06",
+                "opis": "tralala",
+                "racun": "popo",
+                "kuverta": null
+            },
+            {
+                "znesek": 500,
+                "datum": "2021-09-06",
+                "opis": "tralala",
+                "racun": "popo",
+                "kuverta": "nino"
+            }
+        ]
+    }
+}
